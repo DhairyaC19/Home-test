@@ -15,6 +15,8 @@
 
 ## Task 4:
 - For this task, we have configured a Jenkinsfile defining the steps for our pipeline and configuring the Jenkins web interface to create a new pipeline and configure it to use the Jenkinsfile from the GitHub repository.
+- ![image](https://github.com/DhairyaC19/Home-test/assets/162068944/df89e07f-3ae1-4cd0-abed-a6ea23b3e403)
+
 
 ## Task 5:
 - For this task, we have created a Python script “backup_restore.py” to automate the backup of the MySQL database and its periodic restoration for testing purposes.
