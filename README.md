@@ -15,7 +15,9 @@
 
 ## Task 4:
 - For this task, we have configured a Jenkinsfile defining the steps for our pipeline and configuring the Jenkins web interface to create a new pipeline and configure it to use the Jenkinsfile from the GitHub repository.
-- ![image](https://github.com/DhairyaC19/Home-test/assets/162068944/df89e07f-3ae1-4cd0-abed-a6ea23b3e403)
+- ![image](https://github.com/DhairyaC19/Home-test/assets/162068944/7a00dd27-aa7a-4d65-92ac-8cad08e983a1)
+- ![image](https://github.com/DhairyaC19/Home-test/assets/162068944/9d4262c2-ac67-4bf0-9e57-2e4118f26c0c)
+
 
 
 ## Task 5:
