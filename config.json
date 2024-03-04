@@ -1,0 +1,16 @@
+{
+    "Email": {
+      "sender_email": "your_email@example.com",
+      "receiver_email": "recipient@example.com",
+      "smtp_server": "smtp.example.com",
+      "smtp_port": 587,
+      "smtp_username": "your_smtp_username",
+      "smtp_password": "your_smtp_password"
+    },
+    "Thresholds": {
+      "cpu_threshold": 80,
+      "memory_threshold": 80,
+      "disk_threshold": 80
+    }
+  }
+  
