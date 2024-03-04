@@ -44,7 +44,7 @@ resource "aws_instance" "INSTANCE" {
   key_name      = "KEY_01"   
   vpc_security_group_ids = [aws_security_group.SECUITY_GROUP.id]  
 
-  # Installomg necessary software using a provisioner
+  # Installing necessary software using a provisioner
 
   provisioner "remote-exec" {
     inline = [
